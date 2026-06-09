@@ -55,13 +55,13 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Shopping Cart | GET Get current or create a new cart, GET Get cart information by ID, POST Add coupons to the cart, GET Cart installments, POST Add cart items, POST Remove all items, POST Update cart items, PUT Change price, PATCH Ignore profile data, POST Cart simulation, GET Remove all personal data |
-| Cart Attachments | POST Add client preferences, POST Add client profile, POST Add marketing data, POST Add merchant context data, POST Add payment data, POST Add shipping address and select delivery option, GET Get client profile by email |
-| Custom Data | PUT Set multiple custom field values, DELETE Remove single custom field value, PUT Set single custom field value |
-| Configuration | POST Clear orderForm messages, GET Get orderForm configuration, POST Update orderForm configuration, GET Get window to change seller, POST Update window to change seller |
-| Fulfillment | GET List pickup points by location, GET Get address by postal code |
-| Order Placement | POST Process order, POST Place order from an existing cart, PUT Place order |
-| Region | GET Get sellers by region or address |
+| Shopping Cart | Get current or create a new cart, Get cart information by id, Post add coupons to the cart, Get cart installments, Post add cart items, Post remove all items, Post update cart items, Put change price, Patch ignore profile data, Post cart simulation, Get remove all personal data |
+| Cart Attachments | Post add client preferences, Post add client profile, Post add marketing data, Post add merchant context data, Post add payment data, Post add shipping address and select delivery option, Get client profile by email |
+| Custom Data | Put set multiple custom field values, Delete remove single custom field value, Put set single custom field value |
+| Configuration | Post clear orderform messages, Get orderform configuration, Post update orderform configuration, Get window to change seller, Post update window to change seller |
+| Fulfillment | Get list pickup points by location, Get address by postal code |
+| Order Placement | Post process order, Post place order from an existing cart, Put place order |
+| Region | Get sellers by region or address |
 
 ---
 
